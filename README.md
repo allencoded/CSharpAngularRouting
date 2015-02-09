@@ -2,6 +2,11 @@
 Basically I wanted to use C# as my API and keep that routing in tact while mixing in Angular Routing to handle my views.
 This repo serves as a working example of the tutorial below to create you own copy of this repo yourself.
 
+# Stackoverflow.com Post
+The link below is probably a much better example and the original question for this repos basis.
+http://stackoverflow.com/questions/25320041/c-sharp-web-api-routing-mixed-with-angular-routing
+
+
 # Tutorial
 Basically you will want to start by altering your MVC RouteConfig.CS
 ```
