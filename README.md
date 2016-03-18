@@ -10,7 +10,7 @@ http://stackoverflow.com/questions/25320041/c-sharp-web-api-routing-mixed-with-a
 # Tutorial
 Basically you will want to start by altering your MVC RouteConfig.CS
 ```
-// serves plane html
+// serves plain html
   routes.MapRoute(
        name: "DefaultViews",
        url: "view/{controller}/{action}/{id}",
@@ -64,4 +64,4 @@ app.config(function ($routeProvider, $locationProvider) {
 ```
 
 That is it in a nutshell. Forgive the poorly written tutorial. I think the code base explains it all, but I just
-wanted to give a synosis for the readme. 
+wanted to give a overview for the readme. 
